@@ -15,7 +15,7 @@
 - 🔭 I'm exploring a world of IT and learning various things.
 - 🌱 I am currently engaged in many projects to enhance my portfolio.
 - 📫 You can reach me here wiktoria.koziel@gmail.com
-
+ 
 
 <br><br><br><br><br>
 
