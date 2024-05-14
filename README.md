@@ -9,7 +9,7 @@
 </p>
 
 
-<img src="https://github.com/WiktoriaKoziel/welcome/blob/main/assets/fourleafclover-pepeclovernft.gif" width="300" height="300" align="right">
+<img src="https://github.com/WiktoriaKoziel/welcome/blob/main/assets/fourleafclover-pepeclovernft.gif" width="275" height="275" align="right">
 
 ### About me:
 - 🔭 I'm exploring a world of IT and learning various things.
